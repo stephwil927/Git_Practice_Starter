@@ -5,6 +5,7 @@
 - Student A: Stephanie Wilson
 - Student B: Melanie Sebel
 - Student C: Alyona Zabel
+- Favorite Class: IS 424
 
 ## Branch Work
 
